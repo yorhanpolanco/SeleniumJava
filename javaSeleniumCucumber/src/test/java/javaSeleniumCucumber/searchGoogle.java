@@ -28,7 +28,9 @@ public class searchGoogle {
 
    @Given("^user is in google page$")
     public void setupBrowser() {
-
+	   /*prueba*/
+	   
+	   
      /*   System.setProperty("webdriver.chrome.driver", "src\\test\\resources\\chromedriver\\chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
