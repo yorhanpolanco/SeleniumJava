@@ -22,7 +22,7 @@ public class searchGoogle {
 
 	private WebDriver driver;
     int count = 0;
-    WebElement box;
+    WebElement box;  
     
 
 
